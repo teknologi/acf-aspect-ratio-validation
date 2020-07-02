@@ -3,7 +3,7 @@
 /**
  * Plugin Name: ACF Image field aspect ratio validation
  * Description: Adds a validation to ACF image fields checking whether the uploaded image conforms to a certain aspect ratio.
- * Version: 0.0.1
+ * Version: 0.0.2
  * Author: John Huebner
  * Text Domain: acfaspratval
  * Domain Path: /languages

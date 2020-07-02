@@ -16,3 +16,7 @@ If the width of the image is 100 pixels, this means that the height of the image
 
 If the aspect ration is set to 4:3 and the margin at 1% if the width of the uploaded image is 800 pixels then the height can be 594 to 606 pixels
  600 +/- 1% (6px).
+
+## Credit
+
+All credit for this code goes to John A. Huebner II. He has a boatload of other nice ACF addition over at his [Github account](https://github.com/Hube2). I highly recommend them.
